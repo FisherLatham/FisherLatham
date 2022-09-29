@@ -32,5 +32,7 @@ I am a senior at the Univesrity of Tennessee Knoxville who is double majoring in
   
 </div>
 
+---
+
 ### :fire: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherlatham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
