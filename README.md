@@ -5,7 +5,7 @@
 
 ---
 
-### :man_technologist: About Me : 
+### :man_technologist: Get to Know Me : 
 I am a senior at the Univesrity of Tennessee Knoxville who is double majoring in math and econ 👨‍🎓. I enjoy using Python, Jupyter Notebook, R, and STATA to conduct data science/ econometric projects!
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am working part-time as a Data Engineer at the Federal Reserve Bank of Saint Louis.
 - :desktop_computer: Right now, I only have one project posted publicly, but will publish more in the comming months :)
@@ -31,3 +31,6 @@ I am a senior at the Univesrity of Tennessee Knoxville who is double majoring in
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode"  alt="VScode" width="40" height="40"/>&nbsp;
   
 </div>
+
+### :fire: My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fisherlatham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
