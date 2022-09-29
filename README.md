@@ -5,8 +5,9 @@
 
 ---
 
-### :man_technologist: About Me : 
-
-I am a senior at the Univesrity of Tennessee Knoxville who is double majoring in math and econ 👨‍🎓. I enjoy using Python, Jupyter Notebook, R, and STATA to create data science/ econometric projects!
-- 
-
+## :man_technologist: About Me : 
+I am a senior at the Univesrity of Tennessee Knoxville who is double majoring in math and econ 👨‍🎓. I enjoy using Python, Jupyter Notebook, R, and STATA to conduct data science/ econometric projects!
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am working part-time as a Data Engineer at the Federal Reserve Bank of Saint Louis.
+- :desktop_computer: I only have one project posted publicly, but will publish more in the comming months :)
+- ❓I graduate in May 2023, so feel free to reach out to me about data science and analysis roles!
+- 📩How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fisher-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flatham/) or Email-fisherlatham@gmail.com 
