@@ -8,7 +8,7 @@
 ### :man_technologist: Get to Know Me : 
 I am a senior at the Univesrity of Tennessee Knoxville who is double majoring in math and econ 👨‍🎓. I enjoy using Python, Jupyter Notebook, R, and STATA to conduct data science/ econometric projects!
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am working part-time as a Data Engineer at the Federal Reserve Bank of Saint Louis.
-- :desktop_computer: Right now, I only have three projects posted publicly, but will publish more in the comming months :)
+- :desktop_computer: Right now, I only have five projects posted publicly, but will publish more in the comming months :)
 - ❓ I am graduating in May 2023, so feel free to reach out to me about data science and analysis roles!
 - 🕸️ Check out some of the Shiny Apps I have developed: [Data Science vs. Economics](https://fisher-latham.shinyapps.io/Economics_DataScience_App/), or my [FRED Blog](https://fredblog.stlouisfed.org/2022/09/the-housing-market-hotness-index/) I wrote!
 - 📩 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fisher-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flatham/) or Email- fisherlatham@gmail.com 
