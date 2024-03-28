@@ -6,7 +6,7 @@
 ---
 
 ### :man_technologist: Get to Know Me : 
-I am in the master's of Analytics at the Institute of Georgia Technology 👨‍🎓. I enjoy using Python, SQL, and DBT to solve data problems!
+Hello! I am currenlty in the Computation (Data Science) track in the Masters of Analytics at the Georgia Institute of Technology 👨‍🎓. I enjoy using Python, SQL, and DBT to solve data problems!
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am working full-time as an Analytics Engineer at Relay Payments.
 - :desktop_computer: Right now, I only have five projects posted publicly, but will publish more in the comming months :)
 - ❓ Feel free to reach out to me about data science and analysis roles!
